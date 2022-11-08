@@ -1,1 +1,3 @@
-console.log("hello")
+console.log("hello"){
+for(var i=0;i<4;i++)
+}
